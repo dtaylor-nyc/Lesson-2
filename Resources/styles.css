@@ -1,0 +1,19 @@
+
+body {
+	background-color:#FAFAFA;
+}
+
+.title {
+	width: 989px;
+	text-align: center;
+	background-color: #efefef;
+}
+
+.links {
+	padding-top: 10px;
+	height: 350px;
+	width: 989px;
+	background-color: #ee3e80;
+}
+
+
